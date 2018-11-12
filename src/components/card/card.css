@@ -1,0 +1,44 @@
+.Card{
+	background-color: #ffffff;
+	border-radius: 20%;
+	display: flex;
+	margin:5px;
+}
+
+.left{
+	margin: 15px;
+	display: flex;
+	align-self: center;
+	text-align: inherit
+}
+
+.containerletter{
+	display: flex;
+	justify-content: center;
+}
+
+.letter{
+	height: 30px;
+	width: 30px;
+	border: solid 1px rgb(204, 203, 203);
+	border-radius: 100%;
+	text-transform: uppercase
+}
+
+.right{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+
+.name{
+	margin: 10px
+}
+
+.years{
+	margin: 10px
+}
+
+.place{
+	margin: 10px
+}

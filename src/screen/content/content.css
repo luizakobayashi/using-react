@@ -1,0 +1,60 @@
+.title{
+	font-size: 25px
+}
+
+.writtings{
+	color: #9e9e9e;
+	display: flex;
+}
+
+.active{
+	color: #ffffff;
+	border-bottom: solid 2px #BD8F5E;
+	margin-bottom: 1px
+}
+
+.account{
+	padding-right: 35px;
+}
+
+.sites{
+	padding-left: 35px;
+	padding-right: 35px;
+}
+
+.bigbox{
+	background-color: #252525;
+	flex: 1
+}
+
+.invoices{
+	color: #9e9e9e;
+	display: flex;
+	flex: 1;
+	justify-content: space-between;
+	margin: 4px;
+	font-size: 14px
+}
+
+.otterbox{
+	background-color: #2E2E2E;
+	display: flex;
+	flex: 1;
+	justify-content: space-between;
+	color: #9e9e9e;
+	margin: 4px;
+	font-size: 13px
+}
+
+.number{
+	color: #BD8F5E;
+	padding-left: 8px
+}
+
+.dados{
+	display: flex;
+	flex: 1;
+	justify-content: space-between;
+	margin: 3px;
+	font-size: 13px
+}

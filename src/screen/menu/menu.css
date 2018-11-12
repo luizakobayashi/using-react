@@ -1,0 +1,39 @@
+.Menu{
+	display: flex;
+	flex: 1;
+	background-color: #252525;
+	align-items: baseline;
+	box-shadow: -3px 13px 15px rgba(0,0,0,0.2);
+}
+
+.buttons{
+	color: #7C7C7C;
+	display: flex;
+	flex: 1;
+	justify-content: space-between;
+}
+
+.left{
+	display: flex;
+}
+
+.left p{
+	padding: 8px
+}
+
+.right{
+	display: flex;
+}
+
+.box{
+	background-color: #BD8F5E;
+	color: #BD8F5E;
+}
+
+.createNew{
+	color: #ffffff;
+	background-color: #BD8F5E;
+	border: solid 2px #DFA96E;
+	padding: 8px;
+	box-shadow:-3px 13px 15px rgba(0,0,0,0.2);
+}
